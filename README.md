@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Shin Thant Kyaw</h1>
 
 <p align="center">
-  <b>Frontend Developer (React / Next.js) | Junior Full-stack Developer</b>
+  <b>Trying to become Frontend Developer (React / Next.js) | Junior Full-stack Developer</b>
 </p>
 
 ---
