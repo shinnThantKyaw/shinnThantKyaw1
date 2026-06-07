@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Junior Frontend Developer from Myanmar  
+- 💻 Trying to become Junior Frontend Developer 
 - 🌱 Focused on building modern web apps with React & Next.js  
 - ⚙️ Passionate about clean UI, scalable frontend architecture, and real-world systems  
 - 🎯 Goal: Become a strong Full-stack Developer
