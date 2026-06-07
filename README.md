@@ -1,73 +1,73 @@
-<h1 align="center">Hi 👋, I'm Shin Thant Kyaw</h1>
-<h3 align="center">Frontend Developer (React / Next.js) | Aspiring Full-stack Developer</h3>
+<h1 align="center">👋 Hey! I'm Shin Thant Kyaw</h1>
+
+<p align="center">
+  <b>Frontend Developer (React / Next.js) | Junior Full-stack Developer</b>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Junior Frontend Developer** focused on building modern, scalable web applications using React and Next.js.
-
-I enjoy building real-world projects and improving my skills in frontend architecture, state management, and full-stack development.
+- 💻 Junior Frontend Developer from Myanmar  
+- 🌱 Focused on building modern web apps with React & Next.js  
+- ⚙️ Passionate about clean UI, scalable frontend architecture, and real-world systems  
+- 🎯 Goal: Become a strong Full-stack Developer
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 ### 💪 Strong
-- React
-- Next.js
-- TypeScript
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
 ### ⚙️ Intermediate
-- Node.js
-- Express.js
-- MongoDB
-- Redux Toolkit (RTK)
-- RTK Query
-- TanStack Query
-- Tailwind CSS
-- shadcn/ui
-- MUI (Material UI)
-- HeroUI
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-I enjoy building modern UI systems and can adapt quickly to different UI libraries and frontend architectures.
-
----
-
-### 🎯 Frontend Focus
-
-- Building scalable React & Next.js applications
-- State management (Redux Toolkit, TanStack Query)
-- Component libraries (shadcn/ui, MUI, HeroUI)
-- Clean UI design with Tailwind CSS
-- Real-world full-stack integration with Node.js APIs
+### 🧩 Frontend Ecosystem (Hands-on Experience)
+<p>
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTK Query-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HeroUI-7C3AED?style=flat-square"/>
+</p>
 
 ---
 
-### 🚀 Projects
+## 📌 Projects
 
-#### 1. Thingyan Wish 🎆
-A web app to send wishes to loved ones during Thingyan festival.
+### 🎆 Thingyan Wish
+Send wishes to loved ones during Thingyan festival.
 
-👉 :contentReference[oaicite:0]{index=0}
-
----
-
-#### 2. Hotel Booking Management System 🏨
-Admin dashboard for managing hotel rooms, bookings, and system data.
-
-👉 :contentReference[oaicite:1]{index=1}
+👉 https://github.com/shinnThantKyaw/Thingyan-Wish
 
 ---
 
-#### 3. Wazanalingara 🎮
-A refined version of an “Imposter-style” multiplayer game concept.
+### 🏨 Hotel Booking Management System
+Admin dashboard for managing hotel rooms, bookings, and system operations.
 
-👉 :contentReference[oaicite:2]{index=2}
+👉 https://github.com/shinnThantKyaw/Hotel-Booking-Management-System-Admin-React
 
 ---
 
-### 📊 GitHub Stats
+### 🎮 Wazanalingara
+Refined version of an imposter-style game project.
+
+👉 https://github.com/one-project-one-month/wazanerlingara/
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shinnThantKyaw&show_icons=true&theme=tokyonight" />
@@ -79,13 +79,16 @@ A refined version of an “Imposter-style” multiplayer game concept.
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- GitHub: :contentReference[oaicite:3]{index=3}  
-- LinkedIn: (add your link here)
-- Email: (optional)
+<p>
+  <a href="https://github.com/shinnThantKyaw">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I prefer building real-world projects instead of just tutorials. I enjoy UI-heavy apps and interactive systems.
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
